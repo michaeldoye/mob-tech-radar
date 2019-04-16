@@ -1,3 +1,5 @@
-export abstract class AbstractApiService {
-  abstract getDataByCompetency(competency: string): Promise<any>;
+export class ApiService {
+  getDataByCompetency(competency: string): Promise<any> | string {
+    return "shit!";
+  }
 }
