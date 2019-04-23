@@ -1,14 +1,14 @@
 {
-  "main.css": "/my-app/static/css/main.9b4b2273.chunk.css",
-  "main.js": "/my-app/static/js/main.2b8323e6.chunk.js",
-  "main.js.map": "/my-app/static/js/main.2b8323e6.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
-  "static/js/2.b469ffca.chunk.js": "/my-app/static/js/2.b469ffca.chunk.js",
-  "static/js/2.b469ffca.chunk.js.map": "/my-app/static/js/2.b469ffca.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.da079398e80026f4e86cb14da1c9e2b0.js": "/my-app/precache-manifest.da079398e80026f4e86cb14da1c9e2b0.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.9b4b2273.chunk.css.map": "/my-app/static/css/main.9b4b2273.chunk.css.map",
-  "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+  "main.css": "/mob-tech-radar/static/css/main.9b4b2273.chunk.css",
+  "main.js": "/mob-tech-radar/static/js/main.71ba893d.chunk.js",
+  "main.js.map": "/mob-tech-radar/static/js/main.71ba893d.chunk.js.map",
+  "runtime~main.js": "/mob-tech-radar/static/js/runtime~main.4073c6e5.js",
+  "runtime~main.js.map": "/mob-tech-radar/static/js/runtime~main.4073c6e5.js.map",
+  "static/js/2.b469ffca.chunk.js": "/mob-tech-radar/static/js/2.b469ffca.chunk.js",
+  "static/js/2.b469ffca.chunk.js.map": "/mob-tech-radar/static/js/2.b469ffca.chunk.js.map",
+  "index.html": "/mob-tech-radar/index.html",
+  "precache-manifest.dad7cb6cb50ff92ade8611dbf9b42f66.js": "/mob-tech-radar/precache-manifest.dad7cb6cb50ff92ade8611dbf9b42f66.js",
+  "service-worker.js": "/mob-tech-radar/service-worker.js",
+  "static/css/main.9b4b2273.chunk.css.map": "/mob-tech-radar/static/css/main.9b4b2273.chunk.css.map",
+  "static/media/logo.svg": "/mob-tech-radar/static/media/logo.5d5d9eef.svg"
 }
