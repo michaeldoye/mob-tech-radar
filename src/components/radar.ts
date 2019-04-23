@@ -1,4 +1,4 @@
-import { ApiService } from "./api.service";
+import { ApiService } from "../apis/api.service";
 
 export interface RadarConfig {
   svg_id: string;
