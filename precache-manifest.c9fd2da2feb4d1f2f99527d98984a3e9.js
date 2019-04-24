@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/mob-tech-radar/static/js/runtime~main.4073c6e5.js"
   },
   {
-    "revision": "52ff100cf9fe39d26d3d",
-    "url": "/mob-tech-radar/static/js/main.71ba893d.chunk.js"
+    "revision": "c936bd46258aace595df",
+    "url": "/mob-tech-radar/static/js/main.345d6f94.chunk.js"
   },
   {
     "revision": "38a9481542ad04c4297a",
     "url": "/mob-tech-radar/static/js/2.b469ffca.chunk.js"
   },
   {
-    "revision": "52ff100cf9fe39d26d3d",
+    "revision": "c936bd46258aace595df",
     "url": "/mob-tech-radar/static/css/main.9b4b2273.chunk.css"
   },
   {
-    "revision": "6c8acdd63442dce9f0ec0213bdf2fa9d",
+    "revision": "40a39c0db5aa76a228c08ea5ce43dab0",
     "url": "/mob-tech-radar/index.html"
   }
 ];
