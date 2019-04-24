@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/mob-tech-radar/static/css/main.9b4b2273.chunk.css"
   },
   {
-    "revision": "6c8acdd63442dce9f0ec0213bdf2fa9d",
+    "revision": "a56251c751749b5042cafc036b80a1f7",
     "url": "/mob-tech-radar/index.html"
   }
 ];
